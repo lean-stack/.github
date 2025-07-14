@@ -1,6 +1,6 @@
 # Lean Stack
 
-## Dokumentaionen / Slides
+## Dokumentationen / Slides
 
 - JavaScript
 - TypeScript
